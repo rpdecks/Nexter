@@ -1,5 +1,5 @@
 # [ Nexter ](https://Nexter-rkp.netlify.app/)
-![](nexter-demo.gif)
+![](nexter.jpg)
 
 ## This is a CSS/Sass/HTML project I did following a Udemy tutorial online.
 > Jonas Schmedtmann's  
